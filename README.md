@@ -12,7 +12,7 @@ for Autonomous Driving**
 > [Hongyang Li](https://lihongyang.info/),
 > [Andreas Geiger](https://www.cvlibs.net/), 
 > [Xiangyu Yue](https://xyue.io/), 
-> [Li Chen](https://scholar.google.com/citations?user=ulZxvY0AAAAJ&hl=en)
+> [Li Chen](https://ilnehc.github.io/)
 > 
 >
 > 📜 [[technical report](https://arxiv.org/abs/2506.09981)],
