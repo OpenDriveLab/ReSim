@@ -1,6 +1,6 @@
 # ReSim
 
-**ReSim: Reliable World Simulation
+**Reliable World Simulation
 for Autonomous Driving**
 
 > [Jiazhi Yang](https://github.com/YTEP-ZHI), 
