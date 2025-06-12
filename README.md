@@ -33,7 +33,7 @@ for Autonomous Driving**
 **Sim**ulation of diverse open-world driving scenarios under various actions, including hazardous non-expert ones. A **Video2Reward** model estimates the reward from ReSim’s simulated future. 
 
 
-- The key ingredient is to co-train the world model on heterogeneous driving data includes driving videos from the web, driving data with action labels, and simulated data with non-expert driving behaviors.
+- The key ingredient is to co-train the world model on heterogeneous driving data including driving videos from the web, driving data with action labels, and simulated data with non-expert driving behaviors.
 
 - The high-fidelity prediction, accurate action-following, and reward estimation abilities of ReSim facilitate
 multiple driving applications. 
